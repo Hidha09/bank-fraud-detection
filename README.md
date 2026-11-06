@@ -80,6 +80,10 @@ bank-fraud-detection/
 └── README.md
 ```
 
+## Prediction Application
+
+![Bank Fraud Detection Prediction App](prediction_app.png)
+
 ## How to View
 
 1. Clone or download this repository.
